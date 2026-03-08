@@ -1,0 +1,13 @@
+---
+title: "Real Estate Data Preparation & Cleaning"
+author: "Martyna Dudek, Piotr Wilma, Mikołaj Kaczmarek"
+format: html
+---
+
+## Introduction
+
+This is a basic Quarto document. 
+
+```{python}
+#| label: hello-world
+print("Hello, World!")
